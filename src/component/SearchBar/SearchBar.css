@@ -1,0 +1,7 @@
+.ant-space-item:has(.search-bar) {
+  width: 100%;
+}
+
+.search-bar {
+  font-size: 21px;
+}
